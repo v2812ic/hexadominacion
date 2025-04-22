@@ -129,6 +129,10 @@ Puedes rendirte antes de perder tu capital. Al rendirte, puedes ceder tus territ
 - Las decisiones deben notificarse con claridad.
 - No se tolerarán trampas o manipulaciones dudosas.
 - ¡Que gane el más astuto, no el más honesto!
+- Está permitida la reproducción, mejora, y uso del código con fines lúdicos (NO COMERCIALES), referenciando a Víctor Rodríguez Romero como autor intelectual original. Gracias.
+  - Para cargar el juego y el primer estado se realiza una ejecución del main.
+  - Una vez cargado, se ha de ir editando el archivo de acciones ronda por ronda, según los ejemplos que hay en el mismo archivo.
+  - Para correr una ronda se corre acciones.py y acto seguido main.py. Ya está. Para más dudas, contactar con @hexadominacion en instagram.
 
 ---
 
